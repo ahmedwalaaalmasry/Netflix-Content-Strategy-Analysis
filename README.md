@@ -14,7 +14,7 @@ The dataset used for this analysis is the "Netflix Movies and TV Shows" dataset 
 - **Libraries:**
     - **Pandas:** For data manipulation and cleaning.
     - **Matplotlib & Seaborn:** For data visualization.
-- **Jupyter Notebook:** As the environment for coding and presenting the analysis.
+- **Google Colab:** As the environment for coding and presenting the analysis.
 
 ## Key Analysis Findings
 1.  **Movies Dominate the Library:** Nearly 70% of the content on Netflix consists of movies, suggesting a potential over-reliance on single-viewing experiences compared to retention-driving TV shows.
@@ -24,4 +24,5 @@ The dataset used for this analysis is the "Netflix Movies and TV Shows" dataset 
 
 ---
 *Prepared by: Ahmed Almasry*
+
 *Date: September 2025*
